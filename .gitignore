@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+foodcalorie/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# YOLO training outputs
+runs/
+
+# Datasets
+datasets/
+food101data/
+*.zip
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Uploaded images
+static/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
